@@ -1,12 +1,16 @@
 # Chat em tempo real com WebSocket
 
 ### Para execução:
-yarn install \
-yarn dev
+Clone este repositório e no terminal execute os seguintes comandos. \
+Para instalar as dependências: \
+*yarn install* \
+Para rodar a aplicação em ambiente de desenvolvimento: \
+*yarn dev*
 
 Abrir no navegador: [http://localhost:3000](http://localhost:3000)
 
-Para parar o servidor: control + C 
+Para parar o servidor: \
+control + C 
 
 
 ### Explicação:
